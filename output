@@ -1,0 +1,154 @@
+Windows PowerShell
+Copyright (C) 2016 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\AS\programming with anii python code> python -u "c:\Users\AS\programming with anii python code\finalproject14.py"
+!!  Welcome To SITARA Restaurant  !!
+
+!!----------------------------------------------------------
+
+Hello EDYODA Thank you for the Support
+I have made 'My First Project @ PYTHON in my Life' :) yeeee woohhh
+Sir ! What you want to eat in my Restro ? Its a treat from my side :)
+
+-----------------------------------------------------------!!
+
+1. Admin
+2. User
+3. Exit
+
+1
+
+Enter the Below Options
+
+1. Register
+2. Login
+3. Exit
+
+1
+Enter your email id : ani@gmail.com
+Enter your password : ani1234
+
+!! Admin Account is Created Successfully !!
+
+Welcome TO SITARA Restaurant
+
+Admin Details :
+Email_ID : ani@gmail.com
+Password : ani1234
+
+Enter the Below Options
+
+1. Register
+2. Login
+3. Exit
+
+2
+Welcome TO SITARA Restaurant
+
+
+Enter Your Email ID : ani@gmail.com
+Enter Your Password : ani1234
+
+!! Login successfully !!
+
+Enter the Below Options
+
+1. Add Food Item
+2. Edit Food Item
+3. View Food Item
+4. Delete Food Item
+5. Exit
+1
+Enter the food name : paneer masala
+Enter the quantity in values only : 5
+Enter the price in Rs only : 200
+Enter the discount in Rs only : 20
+Enter the available stock in values only : 15
+
+!! Food Item added successfully !!
+
+Newly Added items : {1: {'Name': 'paneer masala', 'Quantity': 5.0, 'Price': 200.0, 'Discount': 20.0, 'Stock': 15.0}}
+
+
+Enter the Below Options
+
+1. Add Food Item
+2. Edit Food Item
+3. View Food Item
+4. Delete Food Item
+5. Exit
+2
+Enter the Food ID you want to update :
+1
+1. Update Food Name
+2. Update Quantity
+3. Update Price
+4. Update Discount
+5. Update Stock
+
+Enter the number only : 1
+Updated Food name : veg biriyani
+
+!! Successfully Updated !!
+
+
+Enter the Below Options
+
+1. Add Food Item
+2. Edit Food Item
+3. View Food Item
+4. Delete Food Item
+5. Exit
+3
+List of Food Items :
+
+Food Id : 1
+Name : veg biriyani
+Quantity : 5.0
+Price : 200.0
+Discount : 20.0
+Stock : 15.0
+
+
+Enter the Below Options
+
+1. Add Food Item
+2. Edit Food Item
+3. View Food Item
+4. Delete Food Item
+5. Exit
+4
+!! Warning !!
+Food Item will Delete Permanently
+
+Enter the Food ID
+1
+
+!! Food item deleted successfully !!
+
+Updated Food List
+ {}
+
+Enter the Below Options
+
+1. Add Food Item
+2. Edit Food Item
+3. View Food Item
+4. Delete Food Item
+5. Exit
+5
+
+Enter the Below Options
+
+1. Register
+2. Login
+3. Exit
+
+3
+1. Admin
+2. User
+3. Exit
+
+3
+THANK YOU SIR
+PS C:\Users\AS\programming with anii python code>
